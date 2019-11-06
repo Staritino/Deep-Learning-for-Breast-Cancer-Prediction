@@ -15,7 +15,7 @@ when provided with a large and balanced dataset
 
 
 References
-1). Code for image pre-processing was adopted from: https://github.com/PVSS/BreastSegmentation.git
+1). Code for image pre-processing was adopted from: https://github.com/PVSS/BreastSegmentation.git\\
 2). Code for coverting tfrecord to png image was adopted from: https://github.com/escuccim/mias-mammography.git
 3). Lakhani, P., Gray, D. L., Pett, C. R., Nagy, P., and Shih, G. Hello World Deep Learning in Medical
 Imaging. Journal of Digital Imaging, 31(3):283–289, jun 2018. ISSN 0897-1889. doi: 10.1007/
